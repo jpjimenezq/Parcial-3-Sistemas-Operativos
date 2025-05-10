@@ -4,7 +4,7 @@ Este proyecto demuestra el uso de **OpenMP** en un programa en **C++** para real
 
 ## Descripción
 
-El objetivo principal del proyecto es mostrar cómo se puede paralelizar una operación de reducción (como una suma, producto, mínimo o máximo) usando OpenMP, mejorando el rendimiento al aprovechar múltiples núcleos del procesador.
+El objetivo principal del proyecto es mostrar cómo se puede paralelizar una operación de reducción usando OpenMP, mejorando el rendimiento al aprovechar múltiples núcleos del procesador.
 
 ## Integrantes
 Juan Pablo Jimenez
