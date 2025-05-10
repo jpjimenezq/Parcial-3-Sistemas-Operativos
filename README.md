@@ -8,5 +8,7 @@ El objetivo principal del proyecto es mostrar cómo se puede paralelizar una ope
 
 ## Integrantes
 Juan Pablo Jimenez
+
 Camilo Soto
+
 Valentina Giraldo
